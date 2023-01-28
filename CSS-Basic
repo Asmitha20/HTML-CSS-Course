@@ -1,0 +1,7 @@
+<style>   //css code
+  button{
+    background-color:red;  //seting background color
+    color: white;    //changing the text color
+  }
+</style>
+<button>SUBSCRIBE</button>  //basic HTML code
