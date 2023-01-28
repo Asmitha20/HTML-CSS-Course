@@ -2,6 +2,7 @@
   button{
     background-color:red;  //seting background color
     color: white;    //changing the text color
+    border: none;
   }
 </style>
 <button>SUBSCRIBE</button>  //basic HTML code
